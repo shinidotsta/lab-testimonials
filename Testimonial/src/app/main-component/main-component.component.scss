@@ -1,0 +1,17 @@
+.main
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin:3em;
+}
+h1{
+    color: orangered;
+}
+.hashcode
+{
+    color: orangered;
+}
+.proImage img{
+  width:25em;
+  height:25em;
+}
